@@ -1,0 +1,11 @@
+SaleID,Product,Category,Quantity,Price
+1,Laptop,Electronics,2,55000
+2,Mouse,Electronics,5,500
+3,Chair,Furniture,3,2500
+4,Table,Furniture,1,7000
+5,Phone,Electronics,4,30000
+6,Bottle,Kitchen,10,150
+7,Bag,Accessories,2,1200
+8,Headphones,Electronics,3,2500
+9,Notebook,Stationery,15,40
+10,Shoes,Fashion,1,2500
