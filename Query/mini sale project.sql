@@ -4,7 +4,7 @@
 
 				You are working in a small retail company that sells daily-use items.
 				 Your task is to analyze sales performance and customer behavior using SQL. 
-	=================================================================================================*/
+	================================================================================================*/
     
     
 -- Create these three basic tables customers, products, orders. You can fill 10 sample rows each.
